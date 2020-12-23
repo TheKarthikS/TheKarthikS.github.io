@@ -1,3 +1,3 @@
-# Karthik's Website 
+# Academic Website 
 
-This is a test website! 
+My academic website, built from scratch using HTML and CSS. Thanks for checking it out! 
