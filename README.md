@@ -1,3 +1,3 @@
 # Academic Website 
 
-My academic website, built from scratch using HTML and CSS. Thanks for checking it out! 
+The HTML and CSS code that builds my academic website. Thanks for checking it out! 
